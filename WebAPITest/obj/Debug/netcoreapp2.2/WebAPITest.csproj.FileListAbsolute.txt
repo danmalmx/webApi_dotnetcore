@@ -1,0 +1,14 @@
+C:\Temp\webApi_dotnetcore\WebAPITest\bin\Debug\netcoreapp2.2\WebAPITest.deps.json
+C:\Temp\webApi_dotnetcore\WebAPITest\bin\Debug\netcoreapp2.2\WebAPITest.runtimeconfig.json
+C:\Temp\webApi_dotnetcore\WebAPITest\bin\Debug\netcoreapp2.2\WebAPITest.runtimeconfig.dev.json
+C:\Temp\webApi_dotnetcore\WebAPITest\bin\Debug\netcoreapp2.2\WebAPITest.dll
+C:\Temp\webApi_dotnetcore\WebAPITest\bin\Debug\netcoreapp2.2\WebAPITest.pdb
+C:\Temp\webApi_dotnetcore\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.csprojAssemblyReference.cache
+C:\Temp\webApi_dotnetcore\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.csproj.CoreCompileInputs.cache
+C:\Temp\webApi_dotnetcore\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.RazorAssemblyInfo.cache
+C:\Temp\webApi_dotnetcore\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.RazorAssemblyInfo.cs
+C:\Temp\webApi_dotnetcore\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.AssemblyInfoInputs.cache
+C:\Temp\webApi_dotnetcore\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.AssemblyInfo.cs
+C:\Temp\webApi_dotnetcore\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.RazorTargetAssemblyInfo.cache
+C:\Temp\webApi_dotnetcore\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.dll
+C:\Temp\webApi_dotnetcore\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.pdb
