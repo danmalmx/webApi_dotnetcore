@@ -42,6 +42,7 @@ namespace WebApi_dotnetcore
             app.UseCors(options => options.WithOrigins("http://localhost:4200")
             .AllowAnyMethod()
             .AllowAnyHeader());
+
             app.UseMvc();
         }
     }
