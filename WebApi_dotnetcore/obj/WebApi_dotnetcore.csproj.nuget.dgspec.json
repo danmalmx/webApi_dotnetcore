@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\WebApi_dotnetcore\\WebApi_dotnetcore\\WebApi_dotnetcore.csproj": {}
+    "C:\\Temp\\webApi_dotnetcore\\WebApi_dotnetcore\\WebApi_dotnetcore.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\WebApi_dotnetcore\\WebApi_dotnetcore\\WebApi_dotnetcore.csproj": {
+    "C:\\Temp\\webApi_dotnetcore\\WebApi_dotnetcore\\WebApi_dotnetcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\WebApi_dotnetcore\\WebApi_dotnetcore\\WebApi_dotnetcore.csproj",
+        "projectUniqueName": "C:\\Temp\\webApi_dotnetcore\\WebApi_dotnetcore\\WebApi_dotnetcore.csproj",
         "projectName": "WebApi_dotnetcore",
-        "projectPath": "C:\\Temp\\WebApi_dotnetcore\\WebApi_dotnetcore\\WebApi_dotnetcore.csproj",
+        "projectPath": "C:\\Temp\\webApi_dotnetcore\\WebApi_dotnetcore\\WebApi_dotnetcore.csproj",
         "packagesPath": "C:\\Users\\Kurs\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\WebApi_dotnetcore\\WebApi_dotnetcore\\obj\\",
+        "outputPath": "C:\\Temp\\webApi_dotnetcore\\WebApi_dotnetcore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
